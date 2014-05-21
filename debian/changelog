@@ -1,0 +1,9 @@
+ros-hydro-rviz-fixed-view-controller (0.0.2-1precise) precise; urgency=high
+
+  * update urls in package.xml
+  * initial commit
+  * Contributors: Adam Leeper
+
+ -- Adam Leeper <adamleeper@gmail.com>  Tue, 13 May 2014 07:00:00 -0000
+
+
